@@ -1,6 +1,3 @@
-Here is an updated version of your README file, now including all the files you've listed from your project directory. I've also clarified and organized some points for better structure and professionalism.
-
----
 
 # Loan Prediction System
 
