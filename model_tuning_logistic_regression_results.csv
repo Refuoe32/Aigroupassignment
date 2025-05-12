@@ -1,0 +1,2 @@
+Best Parameters,Best CV Accuracy,Test Accuracy,Precision,Recall,F1 Score,ROC AUC
+"{'C': 0.1, 'penalty': 'l1', 'solver': 'saga'}",0.8244406196213425,0.8269230769230769,0.813953488372093,0.9722222222222222,0.8860759493670886,0.8098958333333334

@@ -1,0 +1,111 @@
+/* Reset default styles for inputs */
+input, select, textarea {
+    background-color: #000000 !important;
+    color: #FFFFFF !important;
+    border: 1px solid #4A919E !important;
+    padding: 5px !important;
+    border-radius: 4px !important;
+}
+
+/* Number inputs */
+input[type="number"] {
+    background-color: #000000 !important;
+    color: #FFFFFF !important;
+    border: 1px solid #4A919E !important;
+    padding: 5px !important;
+}
+input[type="number"]:focus {
+    border-color: #FFFFFF !important;
+    outline: none !important;
+}
+
+/* Dropdowns */
+.dash-dropdown .Select-control {
+    background-color: #000000 !important;
+    color: #FFFFFF !important;
+    border: 1px solid #4A919E !important;
+}
+.dash-dropdown .Select-value-label {
+    color: #FFFFFF !important;
+}
+.dash-dropdown .Select-menu-outer {
+    background-color: #2E3B3E !important;
+    border: 1px solid #4A919E !important;
+}
+.dash-dropdown .Select-option {
+    background-color: #2E3B3E !important;
+    color: #E0E0E0 !important;
+}
+.dash-dropdown .Select-option:hover {
+    background-color: #4A919E !important;
+    color: #FFFFFF !important;
+}
+.dash-dropdown .Select-input > input {
+    background-color: #000000 !important;
+    color: #FFFFFF !important;
+}
+
+/* RangeSlider */
+.rc-slider {
+    background-color: #2E3B3E !important;
+}
+.rc-slider-rail {
+    background-color: #3A4A4D !important;
+}
+.rc-slider-track {
+    background-color: #4A919E !important;
+}
+.rc-slider-handle {
+    background-color: #FFFFFF !important;
+    border: 2px solid #4A919E !important;
+}
+.rc-slider-handle:hover {
+    border-color: #FFFFFF !important;
+}
+.rc-slider-mark-text {
+    color: #E0E0E0 !important;
+}
+.rc-slider-mark-text-active {
+    color: #FFFFFF !important;
+}
+
+/* Tabs */
+.dash-tabs {
+    background-color: #2E3B3E !important;
+    border-radius: 5px !important;
+    margin-bottom: 20px !important;
+}
+.dash-tabs .tab {
+    background-color: #2E3B3E !important;
+    color: #E0E0E0 !important;
+    border: none !important;
+    padding: 10px 20px !important;
+}
+.dash-tabs .tab--selected {
+    background-color: #4A919E !important;
+    color: #FFFFFF !important;
+    border: none !important;
+}
+.dash-tabs .tab:hover {
+    background-color: #4A919E !important;
+    color: #FFFFFF !important;
+}
+
+/* Icons */
+.icon {
+    margin-right: 5px;
+    font-size: 16px;
+}
+.header-icon {
+    margin-right: 8px;
+    font-size: 24px;
+    vertical-align: middle;
+}
+.button-icon {
+    margin-right: 5px;
+    font-size: 16px;
+}
+.tab-icon {
+    margin-right: 5px;
+    font-size: 16px;
+}
