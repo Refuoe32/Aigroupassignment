@@ -33,7 +33,7 @@ The dataset (`loan_data_set.csv`) contains applicant details and loan status. Ke
 ### Main Files
 
 * `loanprediction.ipynb` – Jupyter notebook with full exploratory data analysis and modeling steps
-* `dashboard.py` – Streamlit dashboard app
+* `dashboard.py` – dashboard app
 * `tuned_logistic_regression.pkl` – Trained and tuned Logistic Regression model
 
 ### Datasets
