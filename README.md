@@ -23,7 +23,7 @@ The dataset (`loan_data_set.csv`) contains applicant details and loan status. Ke
 4. **Modeling**: Logistic Regression was chosen due to its performance and interpretability.
 5. **Model Tuning**: GridSearchCV was used to optimize hyperparameters.
 6. **Feature Importance**: Top contributing features were identified and ranked.
-7. **Dashboard**: An interactive Streamlit dashboard was developed to visualize results and insights.
+7. **Dashboard**: An interactive dashboard was developed to visualize results and insights,perfomance,prediction results.
 
 ## Files Included
 
